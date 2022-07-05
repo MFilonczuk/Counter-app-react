@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GEXNV5YMeqB6u4jzXR3/q8T7Qdl+UNAF+KGvDkNThEM=",
+  "Source": "CounterAPI",
+  "BasePath": "_content/CounterAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
